@@ -1,0 +1,31 @@
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+
+body {
+    background-color: hsl(30, 54%, 90%);
+}
+
+img {
+    max-width: 100%;
+    border-radius: 15px;
+}
+
+div {
+    border-radius: 15px;
+    background-color: hsl(0, 0%, 100%);
+    width: 35%;
+    margin: auto;
+    padding: 20px;
+    margin-top: 80px;
+}
+
+h1 {
+    font-family: 'Young Serif', sans-serif;
+    font-weight: 400;
+}
